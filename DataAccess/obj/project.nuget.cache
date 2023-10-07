@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zO6WiQvIO95cz/pM4m3M2IeN4h8GlHArycsWfRc57yQtUr8u9g+ZzuTd4jvScIasgKZ2Yz5soGFiR3HjdvbQig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dinhg\\Desktop\\PRN ASSIGNMENT\\Assignment1_PRN-main\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dinhg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dinhg\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dinhg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
