@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CuVNZGRgke+/Vvdf74LI6LWWTb3UjK1YKMBXi9AEprkTcxh2/6nrQI4dQUjCm8x5d+8+cx0oYvnaD2gh2i+blg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dinhg\\Desktop\\PRN ASSIGNMENT\\Assignment1_PRN-main\\BusinessObject\\BusinessObject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dinhg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dinhg\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dinhg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
